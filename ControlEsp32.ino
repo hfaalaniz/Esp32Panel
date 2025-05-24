@@ -16,8 +16,8 @@ const int DIGITAL_IN[NUM_DIGITAL_IN] = {13, 17, 26, 14, 27}; // GPIO13, GPIO17, 
 
 // === Configuración de WiFi ===
 struct Config {
-  char ssid[32] = "Personal-075";
-  char password[32] = "FXwPVTAt8a";
+  char ssid[32] = "TU_SSID";
+  char password[32] = "TU_CLAVE";
   char ap_ssid[32] = "ESP32_AP";
   char ap_password[32] = "12345678";
   bool forceAPMode = false;
@@ -78,8 +78,8 @@ void clearEEPROM() {
   EEPROM.commit();
   Serial.println("EEPROM limpiada.");
   // Restablecer credenciales predeterminadas
-  strncpy(config.ssid, "Personal-075", sizeof(config.ssid));
-  strncpy(config.password, "FXwPVTAt8a", sizeof(config.password));
+  strncpy(config.ssid, "TU_SSID", sizeof(config.ssid));
+  strncpy(config.password, "TU_Clave", sizeof(config.password));
   strncpy(config.ap_ssid, "ESP32_AP", sizeof(config.ap_ssid));
   strncpy(config.ap_password, "12345678", sizeof(config.ap_password));
   config.forceAPMode = false;
