@@ -1,3 +1,6 @@
+# Descripción del proyecto:
+Es un proyecto para un ESP32 que configura un servidor web, lee sensores (temperatura, peso con HX711, entradas/salidas digitales), almacena datos en una tarjeta SD y permite gestionar configuraciones de red (modo STA/AP) a través de una interfaz web. Utiliza EEPROM para almacenar configuraciones y tiene una interfaz HTML con funcionalidades como mostrar datos en tiempo real, descargar datos históricos y alternar modos de red.
+
 # 1. Hardware Necesario
 ## ESP32 DevKit V1 (ESP32 Pinout).
 
