@@ -212,16 +212,22 @@ La navbar debe verse idéntica en ambos modos (horizontal en pantallas grandes, 
 Colores (#343a40, #007bff), márgenes, y disposición consistentes.
 
 ## Verificar el hardware:
-### HX711: Sensores en {{23, 22}, {27, 14}, {12, 13}, {15, 21}}.
+### HX711: 
+  Sensores en {{23, 22}, {27, 14}, {12, 13}, {15, 21}}.
 
-### DIGITAL_OUT: LEDs en {16, 17, 19, 18, 27, 33, 32}.
+### DIGITAL_OUT: 
+  LEDs en {16, 17, 19, 18, 27, 33, 32}.
 
-### DIGITAL_IN: Interruptores en {4, 13, 5, 34, 35, 36, 39}.
+### DIGITAL_IN: 
+  Interruptores en {4, 13, 5, 34, 35, 36, 39}.
 
-### TEMP_PINS: Sensores en {32, 33, 34, 35}.
+### TEMP_PINS: 
+  Sensores en {32, 33, 34, 35}.
 
-### SD: Tarjeta FAT32 en CS (5), MOSI (23), MISO (19), SCK (18).
+### SD: 
+  Tarjeta FAT32 en CS (5), MOSI (23), MISO (19), SCK (18).
 
-### Alimentación: USB 1A o 5V externa con capacitor de 100 µF.
+### Alimentación: 
+  USB 1A o 5V externa con capacitor de 100 µF.
 
-"" Puedes comunicarte conmigo al: +549-351-284-8802 y con gusto resolveré tus inquietudes!
+## Puedes comunicarte conmigo al: +549-351-284-8802 y con gusto resolveré tus inquietudes!
