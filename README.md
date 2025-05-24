@@ -1,3 +1,5 @@
+# IMPORTANTE: este proyecto es totalmente gratuito, funcional y de codigo abierto, puedes usarlo y modificarlo como quieras bajo tu propia responsabilidad, solo pido una pequeña mención si lo usas para fines comerciales, lo que no significa que cobraré rergalías por el mismo, pero puede invitarme un café si lo deseas, ni Hugo Fabian Alaniz ni ElectroNet no son ni seran responsables de los daños que pueda causar este codigo ni de la exposicion que se haga del mismo, usalo con responsabilidad!
+
 # Descripción del proyecto:
 Es un proyecto para un ESP32 que configura un servidor web, lee sensores (temperatura, peso con HX711, entradas/salidas digitales), almacena datos en una tarjeta SD y permite gestionar configuraciones de red (modo STA/AP) a través de una interfaz web. Utiliza EEPROM para almacenar configuraciones y tiene una interfaz HTML con funcionalidades como mostrar datos en tiempo real, descargar datos históricos y alternar modos de red.
 
