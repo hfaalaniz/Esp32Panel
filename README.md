@@ -228,6 +228,6 @@ Colores (#343a40, #007bff), márgenes, y disposición consistentes.
   Tarjeta FAT32 en CS (5), MOSI (23), MISO (19), SCK (18).
 
 ### Alimentación: 
-  USB 1A o 5V externa con capacitor de 100 µF.
+  USB 1A x 5V externa con capacitor de 100 µF.
 
 ## Puedes comunicarte conmigo al: +549-351-284-8802 y con gusto resolveré tus inquietudes!
