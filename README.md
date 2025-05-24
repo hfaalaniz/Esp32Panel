@@ -13,7 +13,7 @@ Es un proyecto para un ESP32 que configura un servidor web, lee sensores (temper
 ![Logo de mi proyecto](esp32_4.png)
 
 # 1. Hardware Necesario
-## ESP32 DevKit V1 (ESP32 Pinout).
+## ESP32 DevKit V1 (ESP32 Pinout) o similar de 38 pines.
 
 Sensores de temperatura (ej. LM35 o DS18B20) x4.
 
